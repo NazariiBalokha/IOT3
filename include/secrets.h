@@ -1,0 +1,2 @@
+#define SECRET_SSID "2.4GHz-GRP3";
+#define SECRET_PASS "24GHzGrp3";
